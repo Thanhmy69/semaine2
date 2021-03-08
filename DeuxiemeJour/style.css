@@ -1,0 +1,33 @@
+.troisieme {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+    text-align: center;
+    transform: translate(80%,75%);
+
+}
+
+.deuxieme{
+    width: 310px;
+    height: 310px;
+    border-radius: 50%;
+    background-color: rgb(223, 156, 70);
+    transform: translate(30%,29%);
+}
+
+.premiere{
+    position:center;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: rgb(145, 189, 224);
+
+}
+
+div{
+    position: relative;
+/*     top: calc(95px - 5px);
+    left: calc(105px - 10px); */
+
+}
